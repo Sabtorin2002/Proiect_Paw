@@ -1,0 +1,4 @@
+Produsul Apa are codul 123 in numar de 6 cu pretul 3.2 a fost livrat in orasul Galati in magazinele Kaufland, Lidl, Auchan,  pe o distanta de 250 KM.
+
+Produsul Paine are codul 234 in numar de 1 cu pretul 6.3 a fost livrat in orasul Bucuresti in magazinele Mega Image,  Carrefour,  pe o distanta de 8 KM.
+
